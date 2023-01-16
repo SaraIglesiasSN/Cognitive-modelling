@@ -12,4 +12,5 @@ Assignment 3 models an experiment done by the students during the course.
 The following .py files are from  the repository of materials for the course https://github.com/VanRijnLab/cogmod-bpm-2021.gitt:
 - dmchunk.py
 - model.py
+- model_motivation.py
 - time_funcs.py
